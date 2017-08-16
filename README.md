@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio-2
-HW2
+# Bootstrap-Portfolio
+Homework 2
